@@ -1,33 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1022/02/54d4eebf6901e1eb24ec07f81eb7b5_180_135.jpg?1583999352" group-title="王者荣耀",LING-赖神
-https://epg.112114.xyz/huya/99724
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1016/b9/b6824c9d5593f03f5b5c4f71189023_180_135.jpg?1564815405" group-title="王者荣耀",张大仙
-https://epg.112114.xyz/huya/688
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1034/77/a4286776aa02881faa959bbb2a94d5_180_135.jpg?1598180690" group-title="王者荣耀",久爱-预见【吕德华】
-https://epg.112114.xyz/huya/243547
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1069/68/495b16b192deec93f5dbe6a6910367_180_135.jpg?1589663752" group-title="王者荣耀",韩涵TuT
-https://epg.112114.xyz/huya/774810
-#EXTINF:-1 tvg-logo=“null” group-title="王者荣耀",LING-北慕
-https://epg.112114.xyz/huya/31520
-#EXTINF:-1 tvg-logo=“null” group-title="王者荣耀",AzZ丶口袋
-https://epg.112114.xyz/huya/51106
-#EXTINF:-1 tvg-logo=“null” group-title="王者荣耀",可杰OoO
-https://epg.112114.xyz/huya/509265
-#EXTINF:-1 tvg-logo="null" group-title="DOTA2",SCCC
-https://epg.112114.xyz/huya/123888
-#EXTINF:-1 tvg-logo="null" group-title="DOTA2",Maybe
-https://epg.112114.xyz/huya/211888
-#EXTINF:-1 tvg-logo="null" group-title="DOTA2",AA
-https://epg.112114.xyz/huya/227793
-#EXTINF:-1 tvg-logo="null" group-title="DOTA2",SDN
-https://epg.112114.xyz/huya/dota2sdn
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/f1aba9a31ffe428083b4b75971dabdab_middle.jpg" group-title="DOTA2",完美世界电竞频道
 https://epg.112114.xyz/douyu/6829849
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201901/91be229aaec14b80a4855225885f8ff6_middle.jpg" group-title="DOTA2",Zhou陈尧
 https://epg.112114.xyz/douyu/88660
 #EXTINF:-1 tvg-logo="null" group-title=“王者荣耀,是个枷锁
 https://epg.112114.xyz/douyu/169
-#EXTINF:-1 tvg-logo="null" group-title=“DOTA2”,yyfyyf
+#EXTINF:-1 tvg-logo="null" group-title="DOTA2",YYF
 https://epg.112114.xyz/douyu/9999
 #EXTINF:-1 tvg-logo="null" group-title="DOTA2",谢彬DD
 https://epg.112114.xyz/douyu/110
@@ -39,9 +17,9 @@ https://epg.112114.xyz/douyu/36252
 https://epg.112114.xyz/douyu/793400
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201811/105772659ea57c0f3368f5f91784b64c_middle.jpg" group-title="王者荣耀",李知恩nn
 https://epg.112114.xyz/douyu/4921614
-#EXTINF:-1 tvg-logo=“null” group-title=“DOTA2”,paparuazi
+#EXTINF:-1 tvg-logo=“null” group-title="DOTA2",paparuazi
 https://epg.112114.xyz/douyu/562483
-#EXTINF:-1 tvg-logo=“null” group-title=“DOTA2”,KAKA
+#EXTINF:-1 tvg-logo=“null” group-title="DOTA2",KAKA
 https://epg.112114.xyz/douyu/55353
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201702/05/20/c11aca7afd581a400ed210309ab81b66_middle.jpg" group-title="DOTA2",龚建ZSMJ
 https://epg.112114.xyz/douyu/52876
