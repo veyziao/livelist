@@ -49,7 +49,10 @@ http://192.168.31.174:35455/douyu/6387028
 http://192.168.31.174:35455/douyu/5532877
 #EXTINF:-1 tvg-logo="null" group-title="自定义",Xleft小叮当
 http://192.168.31.174:35455/douyu/3168536
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/f1aba9a31ffe428083b4b75971dabdab_middle.jpg" group-title="DOTA2",完美世界电竞频道
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/f1aba9a31ffe428083b4b75971dabdab_middle.jpg" group-title="
+
+
+",完美世界电竞频道
 http://192.168.31.174:35455/douyu/6829849
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/002/48/83/16_avatar_middle.jpg" group-title="主机其他游戏",寅子
 http://192.168.31.174:35455/douyu/71415
@@ -10017,5 +10020,5 @@ http://192.168.31.174:35455/douyu/10646699
 http://192.168.31.174:35455/douyu/10990813
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/c446c5b261ae4757aecd6ea369fc0d7a_middle.jpg" group-title="电台新声",茶茶zi
 http://192.168.31.174:35455/douyu/5308102
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202304/6c42a34a1e884bb78bfd34fddd615f05_big.jpg" group-title="电台新声",茶茶zi
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202304/6c42a34a1e884bb78bfd34fddd615f05_big.jpg" group-title="DOTA2",Ori
 http://192.168.31.174:35455/douyu/242737
