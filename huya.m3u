@@ -10026,16 +10026,16 @@ http://192.168.21.175:35455/huya/24930757
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1024/10/9b850d6da77704b3c0a2aa125bbdce_180_135.jpg?1568978217" group-title="英雄联盟",乏味iiiii
 http://192.168.21.175:35455/huya/18186521
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1089/7c/1bad570ccab5732e7962853248aa59_180_135.jpg?1682038812&467234" group-title="DOTA2",Sccc
-http://192.168.21.175:35455/huya/123888
+http://192.168.21.175:35455/huya/123888?media=hls
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1094/10/246baaea7d85dcd83f31f221f3221d_180_135.jpg?1669891595&467234" group-title="DOTA2",Maybe
-http://192.168.21.175:35455/huya/211888
+http://192.168.21.175:35455/huya/211888?media=hls
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1004/31/74798f0765e58805185a496ba72055_180_135.jpg?1586159434&467234" group-title="DOTA2",AA
-http://192.168.21.175:35455/huya/227793
+http://192.168.21.175:35455/huya/227793?media=hls
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1060/6c/410d48c9eb48421dd85dea73bc3656_180_135.jpg?1600683010&467234" group-title="DOTA2",SDN
-http://192.168.21.175:35455/huya/dota2sdn
+http://192.168.21.175:35455/huya/dota2sdn?media=hls
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1034/97/1502af01ba926dca56f34f6ea22f22_180_135.jpg?467234" group-title="DOTA2",Fy
-http://192.168.21.175:35455/huya/340204
+http://192.168.21.175:35455/huya/340204?media=hls
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1004/69/990ecc71104fdb2521fb7b3e994554_180_135.jpg?1656926556&467234" group-title="王者荣耀",北慕
-http://192.168.21.175:35455/huya/31520
+http://192.168.21.175:35455/huya/31520?media=hls
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1089/7d/beea59905eb3cc8e9f4b69fb2be8a8_180_135.jpg?1631620733&467681" group-title="DOTA2",查理斯
-http://192.168.21.175:35455/huya/883235
+http://192.168.21.175:35455/huya/883235?media=hls
