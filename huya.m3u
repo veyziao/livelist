@@ -35,8 +35,6 @@ http://192.168.7.102:11303/huya/591756
 http://192.168.7.102:11303/huya/509265
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1044/1b/1b44c5151e57ee8a4bfd25355beba3_180_135.jpg?1646737658&468668" group-title="王者荣耀",AzZ丶口袋
 http://192.168.7.102:11303/huya/51106
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1089/7c/1bad570ccab5732e7962853248aa59_180_135.jpg?1682038812&467234" group-title="DOTA2",Sccc
-http://192.168.7.102:11303/huya/123888
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1094/10/246baaea7d85dcd83f31f221f3221d_180_135.jpg?1669891595&467234" group-title="DOTA2",Maybe
 http://192.168.7.102:11303/huya/211888
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1004/31/74798f0765e58805185a496ba72055_180_135.jpg?1586159434&467234" group-title="DOTA2",AA
@@ -59,3 +57,7 @@ http://192.168.7.102:11303/huya/520888
 http://192.168.7.102:11303/huya/562170
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1022/b2/e8912a2db2732da0e3cab0507054cf_180_135.jpg?1648573355" group-title="王者荣耀",LING-灵儿
 http://192.168.7.102:11303/huya/238197
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/1d/6d718c425767708bcd22a6aeabedf9_180_135.jpg?1622118127&470000" group-title="DOTA2",SETSU
+http://192.168.7.102:11303/huya/634985
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1089/7c/1bad570ccab5732e7962853248aa59_180_135.jpg?1682038812&467234" group-title="DOTA2",Sccc丶
+http://192.168.7.102:11303/huya/123888
