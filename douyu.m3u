@@ -61,3 +61,5 @@ http://192.168.7.102:11303/douyu/9375414
 http://192.168.7.102:11303/douyu/11535560
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202304/1387a9afeb634f608e4da315e803633d_big.jpg" group-title="王者荣耀",书源
 http://192.168.7.102:11303/douyu/5986927
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202107/05f5dd90e0874e808c16893d65fd176a_big.jpg" group-title="王者荣耀",鹿小鸣
+http://192.168.7.102:11303/douyu/10040721
