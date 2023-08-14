@@ -57,3 +57,7 @@ http://192.168.7.102:11303/douyu/11128
 http://192.168.7.102:11303/douyu/2222
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202106/a8fa9d019a7d4227baa093f96db3f3d9_big.jpg" group-title="王者荣耀",昧昧不是妹妹
 http://192.168.7.102:11303/douyu/9375414
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202304/5901c2a54f1041c8a7f98dfba2b98cf2_big.jpg" group-title="王者荣耀",佳小y国一婉儿
+http://192.168.7.102:11303/douyu/11535560
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202304/1387a9afeb634f608e4da315e803633d_big.jpg" group-title="王者荣耀",书源
+http://192.168.7.102:11303/douyu/5986927
