@@ -63,3 +63,7 @@ http://192.168.7.102:11303/douyu/11535560
 http://192.168.7.102:11303/douyu/5986927
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202107/05f5dd90e0874e808c16893d65fd176a_big.jpg" group-title="王者荣耀",鹿小鸣
 http://192.168.7.102:11303/douyu/10040721
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202107/05f5dd90e0874e808c16893d65fd176a_big.jpg" group-title="热门游戏",ABang阿帮
+http://192.168.7.102:11303/douyu/11437
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202304/1387a9afeb634f608e4da315e803633d_big.jpg" group-title="王者荣耀",王者荣耀官方赛事
+http://192.168.7.102:11303/douyu/998
