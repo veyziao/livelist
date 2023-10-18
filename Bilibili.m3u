@@ -9,3 +9,5 @@ http://192.168.7.102:11303/bilibili/1388514638(?platform=h5&line=first&quality=1
 http://192.168.7.102:11303/bilibili/6750632(?platform=h5&line=first&quality=10000)
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/b2558b84764ada89755a8f815978deb81ae780de.jpg@240w_240h_1c_1s_!web-avatar-space-header.webp" group-title="DOTA2",dodo_Official
 http://192.168.7.102:11303/bilibili/23945626(?platform=h5&line=first&quality=10000)
+#EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/5585da1790a0129b37cbf2bfd0d0d2511a6241cd.jpg@96w_96h_!web-dynamic.webp" group-title="DOTA2",AMEAME
+http://192.168.7.102:11303/bilibili/25836285
