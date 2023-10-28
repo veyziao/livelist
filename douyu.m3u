@@ -67,3 +67,7 @@ http://192.168.7.102:11303/douyu/10040721
 http://192.168.7.102:11303/douyu/11437
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202304/1387a9afeb634f608e4da315e803633d_big.jpg" group-title="王者荣耀",王者荣耀官方赛事
 http://192.168.7.102:11303/douyu/998
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/1ed3797f264447aba90958993b72485a_big.jpg" group-title="DOTA2",Dy丁鱼
+http://192.168.7.102:11303/douyu/8763204
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202309/d2e9a2945142442986113656d5758fc8_big.jpg" group-title="DOTA2",DOTA2国际邀请赛
+http://192.168.7.102:11303/douyu/30
