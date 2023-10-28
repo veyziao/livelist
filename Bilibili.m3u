@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/5585da1790a0129b37cbf2bfd0d0d2511a6241cd.jpg@96w_96h_!web-dynamic.webp" group-title="DOTA2",AME
-http://192.168.7.102:11303/bilibili/25836285
+http://192.168.7.102:11303/bilibili/25836285(?platform=h5&line=first&quality=10000)
 #EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/8c12fbd18cf3190df1e6db31628d61204319104e.jpg@240w_240h_1c_1s_!web-avatar-space-header.webp" group-title="DOTA2",DC
-http://192.168.7.102:11303/bilibili/888
+http://192.168.7.102:11303/bilibili/888(?platform=h5&line=first&quality=10000)
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/bcfe4019a4de4f6eb98690774442046c684ca124.jpg@240w_240h_1c_1s_!web-avatar-space-header.webp" group-title="DOTA2",LongDD
-http://192.168.7.102:11303/bilibili/1388514638
+http://192.168.7.102:11303/bilibili/1388514638(?platform=h5&line=first&quality=10000)
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/3db07ad574d4587f492d9e7b7fccc248def4aa91.jpg@96w_96h_!web-dynamic.webp" group-title="DOTA2",Axx
-http://192.168.7.102:11303/bilibili/6750632
+http://192.168.7.102:11303/bilibili/6750632(?platform=h5&line=first&quality=10000)
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/b2558b84764ada89755a8f815978deb81ae780de.jpg@240w_240h_1c_1s_!web-avatar-space-header.webp" group-title="DOTA2",dodo_Official
-http://192.168.7.102:11303/bilibili/23945626
+http://192.168.7.102:11303/bilibili/23945626(?platform=h5&line=first&quality=10000)
